@@ -1,0 +1,4 @@
+# robots.txt for  http://www.lacasitadeines.com
+
+User-agent: *
+Sitemap: http://www.lacasitadeines.com/sitemap.xml
